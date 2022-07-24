@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "320117695444",
+    "project_id": "businesscard-2460f",
+    "storage_bucket": "businesscard-2460f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320117695444:android:dda5ca7e3dd5c3cdfd2c41",
+        "android_client_info": {
+          "package_name": "me.dio.businesscard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320117695444-1t26fucjfb44qrr8n67745u5od3h072q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNdm_BEEAvuQaRm_6KqIvURSCFVGU4PYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320117695444-1t26fucjfb44qrr8n67745u5od3h072q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

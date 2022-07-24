@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name" translatable="false">BusinessCard</string>
+    <string name="tv_business_card">My Contacts</string>
+    <string name="label_new_card">New Card</string>
+    <string name="add_contact">Add</string>
+    <string name="label_name">Name</string>
+    <string name="label_phone">Phone</string>
+    <string name="label_email">E-mail</string>
+    <string name="label_linkedin">LinkedIn</string>
+    <string name="label_github">GitHub</string>
+    <string name="label_company">Company</string>
+    <string name="bt_add">Add Button</string>
+    <string name="label_show_success">Successfully added.</string>
+    <string name="label_share">Share</string>
+    <string name="btn_back">Back</string>
+</resources>
